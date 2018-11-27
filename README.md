@@ -2,6 +2,10 @@
 
 LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
+Getting started
+1. Please clone repo into your computer
+2. Run npm install in GitBash
+
 This application was built by using node.js, axios, moment, keys, dotenv, fs, node-spotify-api, band-in-town-api, OMDb-api.
 
 Each command should do, and information will be rendered for each event to the terminal and log.txt:
