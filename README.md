@@ -37,3 +37,5 @@ Each command should do, and information will be rendered for each event to the t
 4. node liri.js do-what-it-says
 
 	It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt
+
+![alt text] (Nov 27, 2018 5_33 PM.webm)
