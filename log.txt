@@ -1,0 +1,477 @@
+[
+  "------------ concert-this elton john -------------",
+  {
+    "name": "Amway Center",
+    "streetName": "298 Bryan Ave",
+    "city": "Orlando",
+    "zipcode": "32801",
+    "country": "United States",
+    "datetime": "11/27/2018"
+  },
+  {
+    "name": "Amalie Arena",
+    "streetName": "Channelside Dr",
+    "city": "Tampa",
+    "zipcode": "33602",
+    "country": "United States",
+    "datetime": "11/28/2018"
+  },
+  {
+    "name": "Philips Arena",
+    "streetName": "Centennial Olympic Park Dr NW",
+    "city": "Atlanta",
+    "zipcode": "30303",
+    "country": "United States",
+    "datetime": "11/30/2018"
+  },
+  {
+    "name": "Philips Arena",
+    "streetName": "Centennial Olympic Park Dr NW",
+    "city": "Atlanta",
+    "zipcode": "30303",
+    "country": "United States",
+    "datetime": "12/01/2018"
+  },
+  {
+    "name": "Legacy Arena at the BJCC",
+    "streetName": "489 24th St N",
+    "city": "Birmingham",
+    "zipcode": "35203",
+    "country": "United States",
+    "datetime": "12/04/2018"
+  },
+  {
+    "name": "Smoothie King Center",
+    "streetName": "Howard Ave",
+    "city": "New Orleans",
+    "zipcode": "70113",
+    "country": "United States",
+    "datetime": "12/06/2018"
+  },
+  {
+    "name": "Toyota Center",
+    "streetName": "1405 Crawford St",
+    "city": "Houston",
+    "zipcode": "77002-7117",
+    "country": "United States",
+    "datetime": "12/08/2018"
+  },
+  {
+    "name": "Toyota Center",
+    "streetName": "1405 Crawford St",
+    "city": "Houston",
+    "zipcode": "77002-7117",
+    "country": "United States",
+    "datetime": "12/09/2018"
+  },
+  {
+    "name": "AT&T Center",
+    "streetName": "111 AT and T Center Pkwy",
+    "city": "San Antonio Central",
+    "zipcode": "78219",
+    "country": "United States",
+    "datetime": "12/12/2018"
+  },
+  {
+    "name": "American Airlines Center",
+    "streetName": "2500 Victory Ave",
+    "city": "Dallas",
+    "zipcode": "75219-7601",
+    "country": "United States",
+    "datetime": "12/14/2018"
+  },
+  {
+    "name": "American Airlines Center",
+    "streetName": "2500 Victory Ave",
+    "city": "Dallas",
+    "zipcode": "75219-7601",
+    "country": "United States",
+    "datetime": "12/15/2018"
+  },
+  {
+    "name": "Taco Bell Arena",
+    "streetName": "Bronco Ln",
+    "city": "Boise",
+    "zipcode": "83725",
+    "country": "United States",
+    "datetime": "01/11/2019"
+  },
+  {
+    "name": "Moda Center",
+    "streetName": "4 N Center Court St",
+    "city": "Portland",
+    "zipcode": "97227-2101",
+    "country": "United States",
+    "datetime": "01/12/2019"
+  },
+  {
+    "name": "Save Mart Center",
+    "streetName": "2698 E Shaw Ave",
+    "city": "Fresno",
+    "zipcode": "93710-8284",
+    "country": "United States",
+    "datetime": "01/15/2019"
+  },
+  {
+    "name": "Golden 1 Center",
+    "streetName": "961 I St",
+    "city": "Sacramento",
+    "zipcode": "95814-2604",
+    "country": "United States",
+    "datetime": "01/16/2019"
+  },
+  {
+    "name": "Oracle Arena",
+    "streetName": "7000 Coliseum Way",
+    "city": "Oakland",
+    "zipcode": "94621-1917",
+    "country": "United States",
+    "datetime": "01/18/2019"
+  },
+  {
+    "name": "SAP Center At San Jose",
+    "streetName": "589 W Santa Clara St",
+    "city": "San Jose",
+    "zipcode": "95113-1520",
+    "country": "United States",
+    "datetime": "01/19/2019"
+  },
+  {
+    "name": "Staples Center",
+    "streetName": "899 W 12th St",
+    "city": "Los Angeles",
+    "zipcode": "90015",
+    "country": "United States",
+    "datetime": "01/22/2019"
+  },
+  {
+    "name": "Staples Center",
+    "streetName": "899 W 12th St",
+    "city": "Los Angeles",
+    "zipcode": "90015",
+    "country": "United States",
+    "datetime": "01/23/2019"
+  },
+  {
+    "name": "Gila River Arena",
+    "streetName": "6621 N Sunset Blvd",
+    "city": "Glendale",
+    "zipcode": "85305",
+    "country": "United States",
+    "datetime": "01/26/2019"
+  },
+  {
+    "name": "Valley View Casino Center",
+    "streetName": "3550 Sports Arena Blvd",
+    "city": "San Diego",
+    "zipcode": "92110-4919",
+    "country": "United States",
+    "datetime": "01/29/2019"
+  },
+  {
+    "name": "Pepsi Center",
+    "streetName": "1000 Wewatta St",
+    "city": "Denver",
+    "zipcode": "80204",
+    "country": "United States",
+    "datetime": "02/07/2019"
+  },
+  {
+    "name": "BOK Center",
+    "streetName": "102 S Denver Ave",
+    "city": "Tulsa",
+    "zipcode": "74103",
+    "country": "United States",
+    "datetime": "02/09/2019"
+  },
+  {
+    "name": "CenturyLink Center Omaha",
+    "streetName": "N 10th St",
+    "city": "Omaha",
+    "zipcode": "68102",
+    "country": "United States",
+    "datetime": "02/12/2019"
+  },
+  {
+    "name": "Sprint Center",
+    "streetName": "1415 McGee St",
+    "city": "Kaw",
+    "zipcode": "64106",
+    "country": "United States",
+    "datetime": "02/13/2019"
+  },
+  {
+    "name": "Madison Square Garden",
+    "streetName": "420 8th Ave",
+    "city": "New York",
+    "zipcode": "10001-1801",
+    "country": "United States",
+    "datetime": "02/18/2019"
+  },
+  {
+    "name": "Wisconsin Entertainment and Sports Center",
+    "streetName": "398 E Wisconsin Ave",
+    "city": "Milwaukee",
+    "zipcode": "53202-4304",
+    "country": "United States",
+    "datetime": "02/19/2019"
+  },
+  {
+    "name": "Target Center",
+    "streetName": "109 N 6th St",
+    "city": "Minneapolis",
+    "zipcode": "55403",
+    "country": "United States",
+    "datetime": "02/21/2019"
+  },
+  {
+    "name": "U.S. Bank Arena",
+    "streetName": "100 Broadway St",
+    "city": "Cincinnati",
+    "zipcode": "45202-3514",
+    "country": "United States",
+    "datetime": "02/27/2019"
+  },
+  {
+    "name": "Times Union Center",
+    "streetName": "100 Beaver St",
+    "city": "Albany",
+    "zipcode": "12207-1536",
+    "country": "United States",
+    "datetime": "03/01/2019"
+  },
+  {
+    "name": "Barclays Center",
+    "streetName": "636 Pacific St",
+    "city": "Brooklyn",
+    "zipcode": "11217",
+    "country": "United States",
+    "datetime": "03/08/2019"
+  },
+  {
+    "name": "PNC Arena",
+    "streetName": "4094 PNC Center Rd",
+    "city": "Raleigh",
+    "zipcode": "27607",
+    "country": "United States",
+    "datetime": "03/12/2019"
+  },
+  {
+    "name": "Colonial Life Arena",
+    "streetName": "801 Lincoln St",
+    "city": "Columbia",
+    "zipcode": "29201-3953",
+    "country": "United States",
+    "datetime": "03/13/2019"
+  },
+  {
+    "name": "Jacksonville Veterans Memorial Arena",
+    "streetName": "284 A Philip Randolph Blvd",
+    "city": "Jacksonville",
+    "zipcode": "32202-2218",
+    "country": "United States",
+    "datetime": "03/15/2019"
+  },
+  {
+    "name": "Tauron Arena",
+    "streetName": "7 Stanisława Lema",
+    "city": "Cracow",
+    "zipcode": "31-571",
+    "country": "Poland",
+    "datetime": "05/04/2019"
+  },
+  {
+    "name": "O2 Arena",
+    "streetName": "Olšanská",
+    "city": "Prague",
+    "zipcode": "13000",
+    "country": "Czech Republic",
+    "datetime": "05/07/2019"
+  },
+  {
+    "name": "Ziggo Dome",
+    "streetName": "2 Margienewijk OZ",
+    "city": "Emmen",
+    "zipcode": "7833JL",
+    "country": "Netherlands",
+    "datetime": "05/15/2019"
+  },
+  {
+    "name": "Royal Arena",
+    "streetName": "22 Hannemanns Allé",
+    "city": "Copenhagen",
+    "zipcode": "2300",
+    "country": "Denmark",
+    "datetime": "05/18/2019"
+  },
+  {
+    "name": "Scandinavium",
+    "streetName": "Trade Fair Gotheburg",
+    "city": "Gothenburg",
+    "zipcode": "412 52",
+    "country": "Sweden",
+    "datetime": "05/19/2019"
+  }
+]
+[
+  "------------ spotify-this-song halloween -------------",
+  {
+    "artists": "Kodak Black",
+    "song": "Halloween",
+    "preview_url": "https://p.scdn.co/mp3-preview/b7b23a1907762b4ea2551017fbff9d0c46c233e8?cid=aa7d764dafe3445495dd2df0f7618326",
+    "album_name": "Halloween"
+  },
+  {
+    "artists": "The Citizens of Halloween",
+    "song": "This Is Halloween",
+    "preview_url": "n/a",
+    "album_name": "Nightmare Before Christmas Special Edition"
+  },
+  {
+    "artists": "John Carpenter",
+    "song": "Halloween Theme - Main Title",
+    "preview_url": "https://p.scdn.co/mp3-preview/a32e909fa9e2f500b43e735a9c168b2bddb12130?cid=aa7d764dafe3445495dd2df0f7618326",
+    "album_name": "Halloween Motion Picture Soundtrack"
+  },
+  {
+    "artists": "Marilyn Manson",
+    "song": "This is Halloween - Pop Version",
+    "preview_url": "n/a",
+    "album_name": "The Jack 2 Pack (The Nightmare Before Christmas)"
+  },
+  {
+    "artists": "Wallows",
+    "song": "Drunk on Halloween",
+    "preview_url": "https://p.scdn.co/mp3-preview/bd00ea73b351b854d31f453e4744484864846429?cid=aa7d764dafe3445495dd2df0f7618326",
+    "album_name": "Drunk on Halloween"
+  },
+  {
+    "artists": "Misfits",
+    "song": "Halloween",
+    "preview_url": "n/a",
+    "album_name": "Collection 2"
+  },
+  {
+    "artists": "Marilyn Manson",
+    "song": "This Is Halloween",
+    "preview_url": "n/a",
+    "album_name": "Nightmare Revisited"
+  }
+]
+[
+  "------------ spotify-this-song The Sign by Ace of Base -------------",
+  {
+    "artists": "Karaoke Box",
+    "song": "I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]",
+    "preview_url": "https://p.scdn.co/mp3-preview/56ce61443e2a6475875fb9c5ab0bacf46a2e217f?cid=aa7d764dafe3445495dd2df0f7618326",
+    "album_name": "Karaoke Box: Reggae Greatest Hits"
+  },
+  {
+    "artists": "The Karaoke Channel",
+    "song": "The Sign (Originally Performed by Ace of Base) [Karaoke Version]",
+    "preview_url": "https://p.scdn.co/mp3-preview/f4b3590097ad447c3c6e2114e36ab73aef6af0b8?cid=aa7d764dafe3445495dd2df0f7618326",
+    "album_name": "The Karaoke Channel - Sing the Sign Like Ace of Base"
+  },
+  {
+    "artists": "Clara Oaks",
+    "song": "The Sign (Karaoke Version) - Originally Performed By Ace of Base",
+    "preview_url": "https://p.scdn.co/mp3-preview/0290f8afdb653923587f64cba936aaf14a79ea96?cid=aa7d764dafe3445495dd2df0f7618326",
+    "album_name": "The Sign (Karaoke Version) (Originally Performed By Ace of Base)"
+  },
+  {
+    "artists": "The Karaoke Crew",
+    "song": "The Sign (As Made Famous By Ace of Base)",
+    "preview_url": "https://p.scdn.co/mp3-preview/bf8a23ccd1a586e257521afbd9e28a281edb5446?cid=aa7d764dafe3445495dd2df0f7618326",
+    "album_name": "Drew's Famous # 1 Karaoke Hits: 90's Party Hits Vol. 2"
+  },
+  {
+    "artists": "Anna Gramm",
+    "song": "The Sign (Karaoke Version) [Originally Performed By Ace Of Base]",
+    "preview_url": "https://p.scdn.co/mp3-preview/d14ae51215b279ed2fb18a0dd6bd939aa6ae8f30?cid=aa7d764dafe3445495dd2df0f7618326",
+    "album_name": "The Best Of Ace Of Base (Karaoke Version)"
+  },
+  {
+    "artists": "Billboard Karaoke",
+    "song": "The Sign (Made Popular By Ace of Base) [Karaoke Version]",
+    "preview_url": "n/a",
+    "album_name": "Billboard Karaoke - Top 10 Box Set (Vol. 3)"
+  },
+  {
+    "artists": "Roq Star Karaoke",
+    "song": "The Sign (Originally Performed by Ace Of Base) - Karaoke Version",
+    "preview_url": "https://p.scdn.co/mp3-preview/40db9e5358e47bbff74f246c5fadfa47273e726e?cid=aa7d764dafe3445495dd2df0f7618326",
+    "album_name": "Karaoke - Ace of Base"
+  }
+]
+[
+  "------------ movie-this mission impossible -------------",
+  {
+    "title": "Mission: Impossible",
+    "year": "1996",
+    "imdbRating": "7.1",
+    "rTomatoRating": "64%",
+    "country": "USA",
+    "language": "English, French, Czech",
+    "plot": "An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.",
+    "actors": "Tom Cruise, Jon Voight, Emmanuelle Béart, Henry Czerny"
+  }
+]
+[
+  "------------ movie-this Mr. Nobody -------------",
+  {
+    "title": "Mr. Nobody",
+    "year": "2009",
+    "imdbRating": "7.9",
+    "rTomatoRating": "67%",
+    "country": "Belgium, Germany, Canada, France, USA, UK",
+    "language": "English, Mohawk",
+    "plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+    "actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+  }
+]
+------------ do-what-it-says: spotify-this-song "I Want it That Way" -------------
+[
+  "------------ spotify-this-song \"I Want it That Way\" -------------",
+  {
+    "artists": "Backstreet Boys",
+    "song": "I Want It That Way",
+    "preview_url": "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=aa7d764dafe3445495dd2df0f7618326",
+    "album_name": "The Hits--Chapter One"
+  },
+  {
+    "artists": "Backstreet Boys",
+    "song": "I Want It That Way",
+    "preview_url": "https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=aa7d764dafe3445495dd2df0f7618326",
+    "album_name": "Millennium"
+  },
+  {
+    "artists": "Anthem Lights",
+    "song": "I Want It That Way",
+    "preview_url": "https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=aa7d764dafe3445495dd2df0f7618326",
+    "album_name": "Covers Part IV"
+  },
+  {
+    "artists": "Tyler and Mark",
+    "song": "I Want It That Way",
+    "preview_url": "https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=aa7d764dafe3445495dd2df0f7618326",
+    "album_name": "Beautiful Dreams"
+  },
+  {
+    "artists": "Dynamite Boy",
+    "song": "I Want It That Way",
+    "preview_url": "n/a",
+    "album_name": "Punk Goes Pop"
+  },
+  {
+    "artists": "\"Weird Al\" Yankovic",
+    "song": "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)",
+    "preview_url": "https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=aa7d764dafe3445495dd2df0f7618326",
+    "album_name": "Poodle Hat"
+  },
+  {
+    "artists": "Backstreet Boys",
+    "song": "I Want It That Way",
+    "preview_url": "https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=aa7d764dafe3445495dd2df0f7618326",
+    "album_name": "90 Sweet 90s Hits!"
+  }
+]
