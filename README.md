@@ -39,4 +39,4 @@ Each command should do with the following instructions, and information will be 
 	It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt
 
 
-[The user flow video file] (./assets/video/user-flow.mp4)
+[***The user flow video file***](./assets/video/user-flow.mp4)
