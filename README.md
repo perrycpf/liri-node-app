@@ -12,7 +12,7 @@ Each command should do with the following instructions, and information will be 
 
 1. node liri.js concert-this /{artist/band name here}:
 
-	1 Name of the venue
+	--* Name of the venue
 	2 Venue location
 	3 Date of the Event
 	
