@@ -8,7 +8,7 @@ Getting started
 
 This application was built by using node.js, axios, moment, keys, dotenv, fs, node-spotify-api, band-in-town-api, OMDb-api.
 
-Each command should do, and information will be rendered for each event to the terminal and log.txt:
+Each command should do with the following instructions, and information will be rendered for each event to the terminal and log.txt:
 
 1. node liri.js concert-this <artist/band name here>:
 
