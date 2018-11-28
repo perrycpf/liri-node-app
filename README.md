@@ -10,20 +10,20 @@ This application was built by using node.js, axios, moment, keys, dotenv, fs, no
 
 Each command should do with the following instructions, and information will be rendered for each event to the terminal and log.txt:
 
-1. node liri.js concert-this <artist/band name here>:
+1. node liri.js concert-this {artist/band name here}:
 
 	Name of the venue
 	Venue location
 	Date of the Event
 	
-2. node liri.js spotify-this-song <song name here>:
+2. node liri.js spotify-this-song {song name here}:
 
 	Artist(s)
 	The song's name
 	A preview link of the song from Spotify
 	The album that the song is from
 	
-3. node liri.js movie-this <movie name here>
+3. node liri.js movie-this {movie name here}:
 	
 	Title of the movie.
     Year the movie came out.
