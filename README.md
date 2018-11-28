@@ -12,9 +12,9 @@ Each command should do with the following instructions, and information will be 
 
 1. node liri.js concert-this {artist/band name here}:
 
-	Name of the venue
-	Venue location
-	Date of the Event
+	+Name of the venue
+	+Venue location
+	+Date of the Event
 	
 2. node liri.js spotify-this-song {song name here}:
 
