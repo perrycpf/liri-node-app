@@ -10,7 +10,7 @@ This application was built by using node.js, axios, moment, keys, dotenv, fs, no
 
 Each command should do with the following instructions, and information will be rendered for each event to the terminal and log.txt:
 
-1. node liri.js concert-this /{artist/band name here}:
+1. node liri.js concert-this
 
 	--* Name of the venue
 	2 Venue location
