@@ -38,3 +38,4 @@ Each command should do, and information will be rendered for each event to the t
 
 	It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt
 
+[The user flow video file](./assets/video/user-flow.mp4)
