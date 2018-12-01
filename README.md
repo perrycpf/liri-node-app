@@ -4,9 +4,9 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 
 Getting started
 1. Please clone repo into your computer
-2. Run npm install in GitBash
+2. Run npm install in GitBash for Windows, and Run npm install in terminal for MAC. 
 
-This application was built by using node.js, axios, moment, keys, dotenv, fs, node-spotify-api, band-in-town-api, OMDb-api.
+This application was built by using node.js, promises/resolve, axios, moment, keys, dotenv, fs, node-spotify-api, band-in-town-api, OMDb-api.
 
 Each command should do with the following instructions, and information will be rendered for each event to the terminal and log.txt:
 
